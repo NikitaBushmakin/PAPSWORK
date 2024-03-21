@@ -12,7 +12,7 @@
 ![С41-Страница — 4](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/950e552c-f7de-4c86-b784-b66fe2f65196)
 
 # Задача 3: Схема БД
-![С41-Страница — 5 (3)](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/0b8f09de-f8df-404c-a357-4612841ede26)
+![С41-Страница — 5 (4)](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/e8a7a722-978d-4347-b3f0-3f829c951286)
 
 *Поправить: Надо разделить хранение истории болезни и заметок медработника, чтобы выполнялся принцип единственной ответственности.
 
