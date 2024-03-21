@@ -12,4 +12,5 @@
 ![С41-Страница — 4](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/950e552c-f7de-4c86-b784-b66fe2f65196)
 
 # Задача 3: Схема БД
-![Uploading С41-Страница — 5 (1).png…]()
+![С41-Страница — 5 (1)](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/ebe7a4c5-bc6f-41ce-bb04-cd7d23449888)
+
