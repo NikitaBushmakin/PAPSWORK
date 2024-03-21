@@ -12,7 +12,7 @@
 ![С41-Страница — 4](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/950e552c-f7de-4c86-b784-b66fe2f65196)
 
 # Задача 3: Схема БД
-![С41-Страница — 5 (2)](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/f5a29f91-809e-41a5-b050-af1dd7812787)
+![С41-Страница — 5 (3)](https://github.com/NikitaBushmakin/PAPSWORK/assets/164217929/0b8f09de-f8df-404c-a357-4612841ede26)
 
 # Задача 4: Расписать принципы
 **YAGNI**
