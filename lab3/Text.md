@@ -31,8 +31,8 @@
 
 
 **SOLID**
-- S (Принцип единственной ответственности)
-- O (Принцип открытости-закрытости)
-- L (Принцип подстановки Лисков)
-- I (Принцип разделения интерфейсов)
-- D (Принцип разделения интерфейсов)
+- S (Single Responsibility Principle)
+- O (Open/Closed Principle)
+- L (Liskov Substitution Principle)
+- I (Interface Segregation Principle)
+- D (Dependency Inversion Principle)
